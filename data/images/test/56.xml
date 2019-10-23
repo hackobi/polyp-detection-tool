@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jpegs</folder>
+	<filename>56.jpeg</filename>
+	<path>/Users/iamjacobi/Downloads/CVC-ClinicDB/Jpegs/56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polyp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>195</ymin>
+			<xmax>273</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
