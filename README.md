@@ -19,7 +19,7 @@ The required packages will be installed in the Colab notebook
 
 If you want to run inference on your local system you'll need the frozen inference graph and label map that you get after training.
 
-Feel free to try[these](https://github.com/hackobi/polyp-detection-tool/releases/download/v0.01/frozen_model_and_label_map.zip) which work well on polyp detection.
+Feel free to try [these](https://github.com/hackobi/polyp-detection-tool/releases/download/v0.01/frozen_model_and_label_map.zip) which work well on polyp detection.
 
 
 ### Step 2:
