@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CVC-ColonJPGs</folder>
+	<filename>338.jpg</filename>
+	<path>/Users/iamjacobi/Downloads/CVC-ColonDB/CVC-ColonJPGs/338.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>574</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>polyp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>36</ymin>
+			<xmax>458</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
